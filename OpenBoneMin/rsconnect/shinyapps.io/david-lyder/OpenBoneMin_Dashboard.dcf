@@ -1,0 +1,12 @@
+name: OpenBoneMin_DashBoard
+title: OpenBoneMin_DashBoard
+username:
+account: david-lyder
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 803459
+bundleId: 1971476
+url: https://david-lyder.shinyapps.io/OpenBoneMin_DashBoard/
+when: 1553797122.78606
+asMultiple: FALSE
+asStatic: FALSE

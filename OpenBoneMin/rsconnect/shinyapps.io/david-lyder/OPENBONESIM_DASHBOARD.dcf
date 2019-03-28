@@ -1,0 +1,12 @@
+name: OPENBONESIM_DASHBOARD
+title: OPENBONESIM_DASHBOARD
+username:
+account: david-lyder
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 801122
+bundleId: 1971454
+url: https://david-lyder.shinyapps.io/OpenBoneSim_Dashboard/
+when: 1553796646.88447
+asMultiple: FALSE
+asStatic: FALSE
